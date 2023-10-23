@@ -1,0 +1,14 @@
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/bin/Debug/net7.0/Task _27
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/bin/Debug/net7.0/Task _27.deps.json
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/bin/Debug/net7.0/Task _27.runtimeconfig.json
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/bin/Debug/net7.0/Task _27.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/bin/Debug/net7.0/Task _27.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/Task _27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/Task _27.AssemblyInfoInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/Task _27.AssemblyInfo.cs
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/Task _27.csproj.CoreCompileInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/Task _27.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/refint/Task _27.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/Task _27.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/Task _27.genruntimeconfig.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Task _27/obj/Debug/net7.0/ref/Task _27.dll
