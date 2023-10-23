@@ -1,0 +1,14 @@
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/Taks_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/Taks_25.AssemblyInfoInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/Taks_25.AssemblyInfo.cs
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/Taks_25.csproj.CoreCompileInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/bin/Debug/net7.0/Taks_25
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/bin/Debug/net7.0/Taks_25.deps.json
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/bin/Debug/net7.0/Taks_25.runtimeconfig.json
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/bin/Debug/net7.0/Taks_25.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/bin/Debug/net7.0/Taks_25.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/Taks_25.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/refint/Taks_25.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/Taks_25.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/Taks_25.genruntimeconfig.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 4/Homework_Seminar 4/Taks_25/obj/Debug/net7.0/ref/Taks_25.dll
